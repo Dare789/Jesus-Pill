@@ -1,0 +1,96 @@
+.Welcome {
+  background-image:linear-gradient(rgba(173, 163, 78, 0.658), rgba(94, 107, 81, 0.555)),
+  url(./bg2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 1.5;
+  font-size: 0.875rem;
+}
+.Welcome {
+  position:fixed;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 1.5;
+  font-size: 0.875rem;
+}
+
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4 {
+  letter-spacing: var(--spacing);
+  text-transform: capitalize;
+  line-height: 1.25;
+  margin-bottom: 0.75rem;
+}
+h1 {
+  font-size: 3rem;
+}
+h2 {
+  font-size: 2rem;
+}
+h3 {
+  font-size: 1.25rem;
+}
+h4 {
+  font-size: 0.875rem;
+}
+p {
+  margin-bottom: 1.25rem;
+  color: var(--clr-grey-5);
+}
+@media screen and (min-width: 800px) {
+  h1 {
+    font-size: 4rem;
+  }
+  h2 {
+    font-size: 2.5rem;
+  }
+  h3 {
+    font-size: 1.75rem;
+  }
+  h4 {
+    font-size: 1rem;
+  }
+  body {
+    font-size: 1rem;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    line-height: 1;
+  }
+}
+
+
+.button {
+  background: var(--clr-primary-5);
+  background: var(--clr-grey-5);
+  padding: 0.25rem 0.5rem;
+  cursor: pointer;
+  border-radius: var(--radius);
+  transition: var(--transition);
+}
+.twitter{
+    position:fixed;
+    background: var(--clr-grey-5);
+    border-color: transparent;
+    cursor: pointer;
+  }

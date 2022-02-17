@@ -1,0 +1,6 @@
+.share{
+  /* position: relative; */
+  background: var(--clr-grey-5);
+  border-color: transparent;
+  cursor: pointer;
+}
