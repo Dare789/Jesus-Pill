@@ -10,7 +10,7 @@ import "./Share.css";
         window.open("https://www.facebook.com/sharer.php?u=jesuspill.com&t=Today's+Pill", "_blank");
     }
     const twitterShare = ()  => {
-        window.open(`https://twitter.com/intent/tweet?url=jesusPill.com&text=Todays+Pill&hashtags=jesusPill,morningdevotion`, "_blank");
+        window.open(`https://twitter.com/intent/tweet?url=jesusPill.com&text=Todays+Pill&hashtags=jesusPill`, "_blank");
     }
     const whatsappShare = () => {
         window.open("whatsapp://send?text=jesusPill.com", "share/whatsapp/share", "_blank");

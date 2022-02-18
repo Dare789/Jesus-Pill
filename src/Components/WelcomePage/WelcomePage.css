@@ -1,5 +1,5 @@
 .Welcome {
-  background-image:linear-gradient(rgba(173, 163, 78, 0.658), rgba(94, 107, 81, 0.555)),
+  background-image:linear-gradient(rgba(173, 163, 78, 0.705), rgba(94, 107, 81, 0)),
   url(./bg2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -90,6 +90,7 @@ p {
 }
 .twitter{
     position:fixed;
+    top: 40%;
     background: var(--clr-grey-5);
     border-color: transparent;
     cursor: pointer;
