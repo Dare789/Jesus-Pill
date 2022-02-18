@@ -26,9 +26,7 @@ p {
 }
 
 body {
-  background-image:
-  linear-gradient(rgba(78, 173, 165, 0.705),rgba(107, 81, 81, 0)),
-  url(./bg.jpg);
+  background-image:url(./bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
