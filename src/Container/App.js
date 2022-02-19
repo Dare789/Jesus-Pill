@@ -4,6 +4,7 @@ import DailyDose from '../Components/DailyDose/DailyDose';
 import WelcomePage from '../Components/WelcomePage/WelcomePage';
 import Share from '../Components/Share/Share';
 import TodayDate from '../Components/TodayDate/TodayDate';
+import Helmet from "react-helmet"
 import "./App.css";
 
 const App = () => {
@@ -15,6 +16,10 @@ const App = () => {
 
  return(
     <div>
+      <Helmet>
+        <title>Jesus Pill - Start Your Day With God</title>
+          <meta name="JesusPill" content="The Ultimate Christian App" />
+        </Helmet>
        {route === "Welcome" ?
         <div>
            <WelcomePage onRouteChange={onRouteChange}/>
