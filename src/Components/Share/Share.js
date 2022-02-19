@@ -7,13 +7,13 @@ import "./Share.css";
  const Share = () => {
      console.log()
     const facebookShare = () => {
-        window.open("https://www.facebook.com/sharer.php?u=jesuspill.com&t=Today's+Pill", "_blank");
+        window.open("https://www.facebook.com/sharer.php?u=https://jesus-pill.herokuapp.com/&t=Today's+Pill", "_blank");
     }
     const twitterShare = ()  => {
-        window.open(`https://twitter.com/intent/tweet?url=jesusPill.com&text=Todays+Pill&hashtags=jesusPill`, "_blank");
+        window.open(`https://twitter.com/intent/tweet?url=https://jesus-pill.herokuapp.com/&text=Todays+Pill&hashtags=jesusPill`, "_blank");
     }
     const whatsappShare = () => {
-        window.open("whatsapp://send?text=jesusPill.com", "share/whatsapp/share", "_blank");
+        window.open("whatsapp://send?text=https://jesus-pill.herokuapp.com/", "share/whatsapp/share", "_blank");
     }  
 
     return (

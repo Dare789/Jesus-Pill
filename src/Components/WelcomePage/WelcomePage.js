@@ -45,8 +45,8 @@ const WelcomePage = ({onRouteChange}) => {
              </button>    
        </div>
       <div style={{display:"flex", justifyContent:"center"}}>
-             <div className='mt6 pt6 pa0 f7 dim fw9 twitter w5'>
-                 <h4 className='tc fw9' onClick={twitterHandle}>Feedback@<FaTwitterSquare></FaTwitterSquare>JesusPill</h4>
+             <div className='mt6 pt6 pa0 fw9 twitter w5'>
+                 <h4 className='tc fw9 f5' onClick={twitterHandle}>Feedback@<FaTwitterSquare></FaTwitterSquare>JesusPill</h4>
            </div>
       </div> 
    </div>

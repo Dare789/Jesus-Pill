@@ -62,19 +62,19 @@ return(
            <div className="ma5 mt0 mb3 br3 pa2 pt0 pb4 shadow-5 tc bible">
                <p className="br1 bg-light-yellow fw5 pa1 label">Today's Word</p>
                <p className="fw5 ma2 pb1">{scriptLoc}</p>
-               <p className="fw1 ma0 pa0 text">{readMore ? Script : `${Script.substring(0, 120)}...`}
+               <p className="fw4 ma0 pa0 text">{readMore ? Script : `${Script.substring(0, 120)}...`}
                 <button className="btn blue" style={{borderColor:"transparent"}} 
                 onClick={()=>{setReadMore(!readMore)}}>{readMore ? "Show Less" : "Show More"}</button></p>
             </div>
             <div className="ma5 mt3 mb0 br3 pa2 shadow-5 tc Prayer">
                <p className="br1 bg-light-yellow fw5 pa1 label">Today's Prayers Point</p>
-               <p className="fw1 ma0 text">{readLarge ? SayPrayers : `${SayPrayers.substring(0, 70)}...`}
+               <p className="fw4 ma0 text">{readLarge ? SayPrayers : `${SayPrayers.substring(0, 70)}...`}
                <button className="btn blue" style={{borderColor:"transparent"}} 
                onClick={()=>{setReadLarge(!readLarge)}}>{readLarge ? "Show Less" : "Show More"}</button></p> 
            </div>
            <div className="ma5 mt3 mb3 br3 pa2 pb4 shadow-5 Affirmation">
                <p className="ml2 br1 tc bg-light-yellow fw5 pa1 label"> Today's Affirmation</p>
-               <p className="fw1 tc ma0 pa0 text">{TodaysAffirm}</p>
+               <p className="fw4 tc ma0 pa0 text">{TodaysAffirm}</p>
             </div>
         </div>
               <div className='tc'>
