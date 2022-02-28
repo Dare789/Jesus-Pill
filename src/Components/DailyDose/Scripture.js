@@ -35,7 +35,7 @@ const Verse = [
       him to the Ishmeelites, and let not our hand be upon him; for he is our brother and our flesh. And his brethren were content. {were…: 
       Heb. hearkened} 28  Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to 
       the Ishmeelites for twenty pieces of silver: and they brought Joseph into Egypt.`,
-      SayPrayers:`Dear God, I pray you confuse my enemies and use them for myt greatness, Amen, In Jesus Name!`, 
+      SayPrayers:`Dear God, I pray you confuse my enemies and use them for my greatness, Amen, In Jesus Name!`, 
       TodaysAffirm:`I am the architect of my life; I build its foundation and choose its contents`         
     },
     {
