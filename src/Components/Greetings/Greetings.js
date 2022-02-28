@@ -13,10 +13,10 @@ const Greetings = () => {
           return "Afternoon, How is it going? 🏃"
          }
        else if(17 <= time && time <= 24){
-          return "Evening, I hope you had a great day?😊"
+          return "Evening, I hope you had a great day? 😊"
         }
        else if (0 <= time && time < 6){
-          return "Its Midnight why are you awake? 😕"
+          return "Its Midnight, Say a prayer 🙏 "
         }
  return time
 }
