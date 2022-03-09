@@ -440,6 +440,29 @@ const WelInfo = [
         id:103,
         welMessage:`Jesus is coming soon, repent now, tommorrow might be too late`,
     },
+    {
+        id:104,
+        welMessage:`Prayers don't always get answered the way you want them to, 
+                   but God always delivers what you need. Be patient and have faith!`,
+    },
+    {
+        id:105,
+        welMessage:`PSALM 37:5
+          “Commit your way to the Lord: trust in Him, and He will bring it to pass.”`,
+    },
+    {
+        id:106,
+        welMessage:`Try to see blessings in the midst of things that seem like burdens!`,
+    },
+    {
+        id:107,
+        welMessage:`Don't fear failure. Fear being in the exact same place next year as you are today.`,
+    },
+    {
+        id:108,
+        welMessage:`At any moment God can shift you from waiting on it to walking in it. 
+        Be patient, your blessing is coming!`,
+    },
 ]
 
 

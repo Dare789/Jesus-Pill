@@ -73,7 +73,6 @@ body {
 .label {
   background-image: linear-gradient(rgba(239, 240, 230, 0), rgba(107, 81, 81, 0.5));
 }
-
 .btn {
   background: var(--clr-primary-5);
   padding: 0.25rem 0.5rem;
