@@ -8,7 +8,7 @@ import Helmet from "react-helmet"
 import "./App.css";
 
 const App = () => {
- const [route, setRoute] = useState("Welcome");
+ const [ route, setRoute ] = useState("Welcome");
 
  const onRouteChange = (route) => {
      return setRoute(route)
@@ -18,7 +18,7 @@ const App = () => {
     <div>
       <Helmet>
         <title>Jesus Pill - Start Your Day With God</title>
-          <meta name="JesusPill" content="The Ultimate Christian App" />
+          <meta name="JesusPill" content="The Ultimate Christian App"/>
         </Helmet>
        {route === "Welcome" ?
         <div>
@@ -27,6 +27,7 @@ const App = () => {
        :
         <div>
              <Greetings/>
+             {/* <Bible/> */}
              <TodayDate/>
              <DailyDose/>
              <Share/> 

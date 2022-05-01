@@ -57,7 +57,7 @@ return(
      <div>
         <div>
            <div className='todayDate ma5 mb0 '>
-              <p className='br1 bg-light-green fw5 pt1 pb1 pl0 pl3 pr3 mb0 label date tc'>{date}</p>
+              {/* <p className='br1 bg-light-green fw5 pt1 pb1 pl0 pl3 pr3 mb0 label date tc'>{date}</p> */}
           </div>
            <div className="ma5 mt0 mb3 br3 pa2 pt0 pb4 shadow-5 tc bible">
                <p className="br1 bg-light-yellow fw5 pa1 label">Today's Word</p>
