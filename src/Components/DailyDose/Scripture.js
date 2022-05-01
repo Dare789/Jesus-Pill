@@ -1,7 +1,7 @@
 const Verse = [
     {
      id:0,
-     date:"1st Mar",
+     date:"1st May",
      scriptLoc:"Genesis 37: 1 - 28(KJV)",
      Script:`And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan. {wherein…: Heb. of his father’s 
       sojournings} 2  These are the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brethren; 
@@ -40,7 +40,7 @@ const Verse = [
     },
     {
       id:1,
-      date:"2nd Mar",
+      date:"2nd May",
       scriptLoc:"Exodus 16: 1 - 10(KJV)",
       Script:`And they took their journey from Elim, and all the congregation of the children of 
       Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day 
@@ -66,7 +66,7 @@ const Verse = [
       
       {
      id:2,
-     date:"3rd Mar",
+     date:"3rd May",
      scriptLoc:"Hosea 2: 1 - 15(KJV)",
      Script:`Say ye unto your brethren, Ammi; and to your sisters, Ruhamah. {Ammi: that is, My people} {Ruhamah: that is,
       Having obtained mercy} 2  Plead with your mother, plead: for she is not my wife, neither am I her husband: let her 
@@ -94,7 +94,7 @@ const Verse = [
      },
      {
      id:3,
-     date:"4th Mar",
+     date:"4th May",
      scriptLoc:"Hosea 2: 16 - 23(KJV)",
      Script:`And it shall be at that day, saith the LORD, that thou shalt call me Ishi; and shalt call me no more Baali. 
      {Ishi: that is, My husband} {Baali: that is, My lord} 17  For I will take away the names of Baalim out of her mouth, and
@@ -111,8 +111,8 @@ const Verse = [
      },
      {
      id:4,
-     date:"5th Mar",
-     scriptLoc:"Mark 12: 26 - 34(KJV)",
+     date:"5th May",
+     scriptLoc:"Mayk 12: 26 - 34(KJV)",
      Script:`26  And as touching the dead, that they rise: have ye not read in the book of Moses, how in the bush God spake 
      unto him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob? 27  He is not the God of the dead, 
      but the God of the living: ye therefore do greatly err. 28  And one of the scribes came, and having heard them reasoning 
@@ -130,7 +130,7 @@ const Verse = [
      },
      {
      id:5,
-     date:"6th Mar",
+     date:"6th May",
      scriptLoc:"John 11: 47 - 54(KJV)",
      Script:`Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles. 
      48  If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation. 
@@ -145,7 +145,7 @@ const Verse = [
      },
      {
      id:6,
-     date:"7th Mar",
+     date:"7th May",
      scriptLoc:"Prov. 1: 1 - 9(KJV)",
      Script:`The proverbs of Solomon the son of David, king of Israel; 2  To know wisdom and instruction; to perceive the words of 
      understanding; 3  To receive the instruction of wisdom, justice, and judgment, and equity; {equity: Heb. equities} 4  To give subtilty 
@@ -159,7 +159,7 @@ const Verse = [
      },
      {
      id:7,
-     date:"8th Mar",
+     date:"8th May",
      scriptLoc:"Exodus 14: 1 - 14(KJV)",
      Script:`And the LORD spake unto Moses, saying, 2  Speak unto the children of Israel, that they turn and encamp before Pihahiroth, 
      between Migdol and the sea, over against Baalzephon: before it shall ye encamp by the sea. 3  For Pharaoh will say of the children of 
@@ -171,7 +171,7 @@ const Verse = [
      hardened the heart of Pharaoh king of Egypt, and he pursued after the children of Israel: and the children of Israel went out with an high 
      hand. 9  But the Egyptians pursued after them, all the horses and chariots of Pharaoh, and his horsemen, and his army, and overtook them 
      encamping by the sea, beside Pihahiroth, before Baalzephon. 10  And when Pharaoh drew nigh, the children of Israel lifted up their eyes, 
-     and, behold, the Egyptians marched after them; and they were sore afraid: and the children of Israel cried out unto the LORD. 11  And they 
+     and, behold, the Egyptians Mayched after them; and they were sore afraid: and the children of Israel cried out unto the LORD. 11  And they 
      said unto Moses, Because there were no graves in Egypt, hast thou taken us away to die in the wilderness? wherefore hast thou dealt thus 
      with us, to carry us forth out of Egypt? 12  Is not this the word that we did tell thee in Egypt, saying, Let us alone, that we may serve 
      the Egyptians? For it had been better for us to serve the Egyptians, than that we should die in the wilderness. 13  And Moses said unto 
@@ -183,7 +183,7 @@ const Verse = [
      },
      {
      id:8,
-     date:"9th Mar",
+     date:"9th May",
      scriptLoc:"Luke 4: 15 - 30(KJV)",
      Script:`And he taught in their synagogues, being glorified of all. 16  And he came to Nazareth,
        where he had been brought up: and, as his custom was, he went into the synagogue on the sabbath day,
@@ -209,7 +209,7 @@ const Verse = [
      },
      {
        id:9,
-       date:"10th Mar",
+       date:"10th May",
        scriptLoc:"Romans 9: 30 - 33(KJV)",
        Script:`What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, 
        even the righteousness which is of faith. 31  But Israel, which followed after the law of righteousness, hath not attained to the 
@@ -222,7 +222,7 @@ const Verse = [
      },
      {
      id:10,
-     date:"11th Mar",
+     date:"11th May",
      scriptLoc:"1 Samuel 2: 1 - 11(KJV)",
      Script:`And Hannah prayed, and said, My heart rejoiceth in the LORD, mine horn is exalted in the LORD: my mouth
       is enlarged over mine enemies; because I rejoice in thy salvation. 2  There is none holy as the LORD: for there is
@@ -244,7 +244,7 @@ const Verse = [
      },
      {
        id:11,
-       date:"12th Mar",
+       date:"12th May",
        scriptLoc:"Daniel 6: 1 - 11(KJV)",
        Script:`It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom; 2  
        And over these three presidents; of whom Daniel was first: that the princes might give accounts unto them, and the king should 
@@ -269,7 +269,7 @@ const Verse = [
      },
      {
       id:13,
-      date:"13th Mar",
+      date:"13th May",
       scriptLoc:"Daniel 6: 12 - 20(KJV)",
       Script:`Then they came near, and spake before the king concerning the king’s decree; Hast thou not signed a decree, 
       that every man that shall ask a petition of any God or man within thirty days, save of thee, O king, shall be cast into the den 
@@ -291,7 +291,7 @@ const Verse = [
      },
      {
      id:12,
-     date:"14th Mar",
+     date:"14th May",
      scriptLoc:"Romans 9: 14 - 29(KJV)",
      Script:`What shall we say then? Is there unrighteousness with God? God forbid. 15  For he saith to Moses, I will have mercy on whom 
      I will have mercy, and I will have compassion on whom I will have compassion. 16  So then it is not of him that willeth, nor of him that 
@@ -314,7 +314,7 @@ const Verse = [
      },
      {
      id:14,
-     date:"15th Mar",
+     date:"15th May",
      scriptLoc:"Lev. 10: 1 - 7(KJV)",
      Script:`And Nadab and Abihu, the sons of Aaron, took either of them his censer, and put fire therein, and put incense thereon, 
      and offered strange fire before the LORD, which he commanded them not. 2  And there went out fire from the LORD, and devoured them, 
@@ -322,7 +322,7 @@ const Verse = [
      that come nigh me, and before all the people I will be glorified. And Aaron held his peace. 4  And Moses called Mishael and Elzaphan, 
      the sons of Uzziel the uncle of Aaron, and said unto them, Come near, carry your brethren from before the sanctuary out of the camp. 
      5  So they went near, and carried them in their coats out of the camp; as Moses had said. 6  And Moses said unto Aaron, and unto Eleazar 
-     and unto Ithamar, his sons, Uncover not your heads, neither rend your clothes; lest ye die, and lest wrath come upon all the people: but 
+     and unto IthaMay, his sons, Uncover not your heads, neither rend your clothes; lest ye die, and lest wrath come upon all the people: but 
      let your brethren, the whole house of Israel, bewail the burning which the LORD hath kindled. 7  And ye shall not go out from the door of 
      the tabernacle of the congregation, lest ye die: for the anointing oil of the LORD is upon you. And they did according to the word of Moses. `,
      SayPrayers:`Lord, through the help of the holy spirit in me, guide my steps as I face the challenges of the day in Jesus name, Amen!`, 
@@ -330,7 +330,7 @@ const Verse = [
      },
      {
        id:15,
-       date:"16th Mar",
+       date:"16th May",
        scriptLoc:"Acts 3: 1 - 11(KJV)",
        Script:`Now Peter and John went up together into the temple at the hour of prayer, being the ninth hour.
         2  And a certain man lame from his mother’s womb was carried, whom they laid daily at the gate of the temple
@@ -349,7 +349,7 @@ const Verse = [
      },
      {
        id:16,
-       date:"17th Mar",
+       date:"17th May",
        scriptLoc:"Matt 12: 15 - 21(KJV)",
        Script:`But when Jesus knew it, he withdrew himself from thence: and great multitudes followed him, and he healed them all; 
        16  And charged them that they should not make him known: 17  That it might be fulfilled which was spoken by Esaias the prophet, 
@@ -363,7 +363,7 @@ const Verse = [
        },
      {
      id:17,
-     date:"18th Mar",
+     date:"18th May",
      scriptLoc:"Luke 12: 1 - 12(KJV)",
      Script:`In the mean time, when there were gathered together an innumerable multitude of people,
       insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware
@@ -387,7 +387,7 @@ const Verse = [
      },
      {
      id:18,
-     date:"19th Mar",
+     date:"19th May",
      scriptLoc:"Romans 3: 21 - 31(KJV)",
      Script:`But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets; 22  
      Even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference: 
@@ -404,7 +404,7 @@ const Verse = [
      },
      {
        id:19,
-       date:"20th Mar",
+       date:"20th May",
        scriptLoc:"Ephesians 5: 1 - 14(KJV)",
        Script:`Be ye therefore followers of God, as dear children; 2  And walk in love, as Christ also hath loved us, 
        and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour. 
@@ -424,7 +424,7 @@ const Verse = [
      },
      {
        id:20,
-       date:"21st Mar",
+       date:"21st May",
        scriptLoc:"Psalm 1: 1 - 6(KJV)",
        Script:`Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the 
        seat of the scornful. {ungodly: or, wicked} 2  But his delight is in the law of the LORD; and in his law doth he meditate day and night. 
@@ -438,7 +438,7 @@ const Verse = [
      },
      {
      id:21,
-     date:"22nd Mar",
+     date:"22nd May",
      scriptLoc:"1 Sam. 16: 1 - 13(KJV)",
      Script:`And the LORD said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel? 
      fill thine horn with oil, and go, I will send thee to Jesse the Bethlehemite: for I have provided me a king among his sons. 2  And 
@@ -463,7 +463,7 @@ const Verse = [
      },
      {
        id:22,
-       date:"23th Mar",
+       date:"23th May",
        scriptLoc:"Malachi 1: 1 - 5(KJV)",
        Script:`The burden of the word of the LORD to Israel by Malachi. {by…: Heb. by the hand of} 
        2  I have loved you, saith the LORD. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob’s 
@@ -477,7 +477,7 @@ const Verse = [
      },
      {
      id:23,
-     date:"24th Mar",
+     date:"24th May",
      scriptLoc:"1 John 3: 9 - 24(KJV)",
      Script:`And hereby we know that we are of the truth, and shall assure our hearts before him. {assure: Gr. persuade} 
      20  For if our heart condemn us, God is greater than our heart, and knoweth all things. 21  Beloved, if our heart condemn 
@@ -490,7 +490,7 @@ const Verse = [
      },
      {
      id:24,
-     date:"25th Mar",
+     date:"25th May",
      scriptLoc:"Malachi 1: 6 - 14(KJV)",
      Script:`A son honoureth his father, and a servant his master: if then I be a father, where is mine honour? and if
       I be a master, where is my fear? saith the LORD of hosts unto you, O priests, that despise my name. And ye say, Wherein
@@ -513,7 +513,7 @@ const Verse = [
      },
      {
        id:25,
-       date:"26th Mar",
+       date:"26th May",
        scriptLoc:"Matt. 4: 1 - 11(KJV)",
        Script:`Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil. 2  And when he had fasted forty days and forty nights, 
        he was afterward an hungred. 3  And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread. 4  But 
@@ -529,7 +529,7 @@ const Verse = [
      },
      {
        id:26,
-       date:"27th Mar",
+       date:"27th May",
        scriptLoc:"Acts 13: 13 - 26(KJV)",
        Script:`Now when Paul and his company loosed from Paphos, they came to Perga in Pamphylia: and John departing from them returned 
         to Jerusalem. 14  But when they departed from Perga, they came to Antioch in Pisidia, and went into the synagogue on the sabbath day,
@@ -553,7 +553,7 @@ const Verse = [
      },
      {
        id:27,
-       date:"28th Mar",
+       date:"28th May",
        scriptLoc:"Matt. 4: 12 - 22(KJV)",
        Script:`Now when Jesus had heard that John was cast into prison, he departed into Galilee; {cast…: or, delivered up} 13  And 
        leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim: 14  
@@ -570,13 +570,13 @@ const Verse = [
      },
      {
       id:28,
-      date:"29th Mar",
+      date:"29th May",
       scriptLoc:"Jonah 1: 1 - 14(KJV)",
       Script:`Now the word of the LORD came unto Jonah the son of Amittai, saying, {Jonah: Gr. Jonas} 2  Arise, go to Nineveh, that great 
       city, and cry against it; for their wickedness is come up before me. 3  But Jonah rose up to flee unto Tarshish from the presence of the 
       LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them 
       unto Tarshish from the presence of the LORD.  4  But the LORD sent out a great wind into the sea, and there was a mighty tempest in the 
-      sea, so that the ship was like to be broken. {sent out: Heb. cast forth} {was like…: Heb. thought to be broken} 5  Then the mariners were 
+      sea, so that the ship was like to be broken. {sent out: Heb. cast forth} {was like…: Heb. thought to be broken} 5  Then the Mayiners were 
       afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah 
       was gone down into the sides of the ship; and he lay, and was fast asleep. 6  So the shipmaster came to him, and said unto him, What 
       meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not. 7  And they said every one 
@@ -597,11 +597,11 @@ const Verse = [
     },
     {
       id:29,
-      date:"30th Mar",
+      date:"30th May",
       scriptLoc:"1 John 3: 11 - 18(KJV)",
       Script:`For this is the message that ye heard from the beginning, that we should love one another. {message: or, commandment} 
       12  Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and 
-      his brother’s righteous. 13  Marvel not, my brethren, if the world hate you. 14  We know that we have passed from death unto life, 
+      his brother’s righteous. 13  Mayvel not, my brethren, if the world hate you. 14  We know that we have passed from death unto life, 
       because we love the brethren. He that loveth not his brother abideth in death. 15  Whosoever hateth his brother is a murderer: and 
       ye know that no murderer hath eternal life abiding in him. 16  Hereby perceive we the love of God, because he laid down his life for 
       us: and we ought to lay down our lives for the brethren. 17  But whoso hath this world’s good, and seeth his brother have need, and 
@@ -612,7 +612,7 @@ const Verse = [
     },
     {
       id:30,
-      date:"31st Mar",
+      date:"31st May",
       scriptLoc:"1 Cor. 1: 17 - 31(KJV)",
       Script:`For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ 
       should be made of none effect. {words: or, speech} 18  For the preaching of the cross is to them that perish foolishness; but
