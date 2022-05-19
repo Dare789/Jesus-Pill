@@ -6,13 +6,13 @@ import "./Share.css";
 
  const Share = () => {
     const facebookShare = () => {
-        window.open("https://www.facebook.com/sharer.php?u=https://jesus-pill.herokuapp.com/&t=Today's+Pill", "_blank");
+        window.open("https://www.facebook.com/sharer.php?u=https://dailyreadnow.netlify.app/&t=Today's+Pill", "_blank");
     }
     const twitterShare = ()  => {
-        window.open(`https://twitter.com/intent/tweet?url=https://jesus-pill.herokuapp.com/&text=Todays+Pill&hashtags=jesusPill`, "_blank");
+        window.open(`https://twitter.com/intent/tweet?url=https://dailyreadnow.netlify.app/&text=Todays+Pill&hashtags=jesusPill`, "_blank");
     }
     const whatsappShare = () => {
-        window.open("whatsapp://send?text=https://jesus-pill.herokuapp.com/", "share/whatsapp/share", "_blank");
+        window.open("whatsapp://send?text=https://dailyreadnow.netlify.app/", "share/whatsapp/share", "_blank");
     }  
 
     return (
