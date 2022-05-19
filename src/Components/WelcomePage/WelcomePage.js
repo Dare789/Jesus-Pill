@@ -33,7 +33,7 @@ const WelcomePage = ({onRouteChange}) => {
   }, [index]);
 
   const twitterHandle = function Open() {
-    window.open("https://twitter.com/DailyReadNow", "_blank");
+    window.open("https://twitter.com/_DailyRead", "_blank");
 };
   
   return (
