@@ -33,7 +33,7 @@ const WelcomePage = ({onRouteChange}) => {
   }, [index]);
 
   const twitterHandle = function Open() {
-    window.open("https://twitter.com/JesusPillForYou", "_blank");
+    window.open("https://twitter.com/DailyReadNow", "_blank");
 };
   
   return (
@@ -41,12 +41,12 @@ const WelcomePage = ({onRouteChange}) => {
       <p className='f3 fw9 tc mb0 w8 mt5 ml1 mr1'>"{welMessage}"</p>
         <div className='tc ma0 pa2'>
              <button className='button fw9 black br3 ma0 pa1 grow' onClick={()=>{onRouteChange("home")}}>
-              Get Today Pill
+              Get In!
              </button>    
        </div>
       <div style={{display:"flex", justifyContent:"center"}}>
              <div className='mt6 pt6 pa0 fw9 twitter w5'>
-                 <h4 className='tc fw9 f5' onClick={twitterHandle}>Feedback@<FaTwitterSquare></FaTwitterSquare>JesusPill</h4>
+                 <h4 className='tc fw9 f5' onClick={twitterHandle}>Feedback@<FaTwitterSquare></FaTwitterSquare>DailyRead</h4>
            </div>
       </div> 
    </div>

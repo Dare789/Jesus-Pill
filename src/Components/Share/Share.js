@@ -5,7 +5,6 @@ import "./Share.css";
 
 
  const Share = () => {
-     console.log()
     const facebookShare = () => {
         window.open("https://www.facebook.com/sharer.php?u=https://jesus-pill.herokuapp.com/&t=Today's+Pill", "_blank");
     }
@@ -18,7 +17,7 @@ import "./Share.css";
 
     return (
     <div className='pb0 ma0'>
-        <p className='tc pa0 ma0 mt5 fw9'>Share Today's Pill</p>
+        <p className='tc pa0 ma0 mt5 fw9'>Share Daily Read</p>
            <div style={{display:"flex", justifyContent:"center"}}>
                <button className="tc f2 link pointer grow bg-transparent share">
                    <FaFacebook onClick={facebookShare}></FaFacebook>

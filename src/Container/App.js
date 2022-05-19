@@ -17,8 +17,8 @@ const App = () => {
  return(
     <div>
       <Helmet>
-        <title>Jesus Pill - Start Your Day With God</title>
-          <meta name="JesusPill" content="The Ultimate Christian App"/>
+        <title>Daily Read</title>
+          <meta name="Daily Read" content="The Ultimate Christian App"/>
         </Helmet>
        {route === "Welcome" ?
         <div>

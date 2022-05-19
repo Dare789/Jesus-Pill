@@ -57,7 +57,6 @@ return(
      <div>
         <div>
            <div className='todayDate ma5 mb0'>
-             {/* Would probably use Dates later */}
               <p className='br1 bg-light-green fw5 pt1 pb1 pl0 pl3 pr3 mb0 label date tc'>{date}</p>
           </div>
            <div className="ma5 mt0 mb3 br3 pa2 pt0 pb4 shadow-5 tc bible">
