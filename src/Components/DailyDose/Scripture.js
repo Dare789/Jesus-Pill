@@ -1,7 +1,7 @@
 const Verse = [
     {
      id:0,
-     date:"1st May",
+     date:"1st June",
      scriptLoc:"Genesis 37: 1 - 28(KJV)",
      Script:`And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan. {wherein…: Heb. of his father’s 
       sojournings} 2  These are the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brethren; 
@@ -40,7 +40,7 @@ const Verse = [
     },
     {
       id:1,
-      date:"2nd May",
+      date:"2nd June",
       scriptLoc:"Exodus 16: 1 - 10(KJV)",
       Script:`And they took their journey from Elim, and all the congregation of the children of 
       Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day 
@@ -50,7 +50,7 @@ const Verse = [
       when we sat by the flesh pots, and when we did eat bread to the full; for ye have brought us forth
       into this wilderness, to kill this whole assembly with hunger. 4  Then said the LORD unto Moses, 
       Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate
-      every day, that I may prove them, whether they will walk in my law, or no. {a certain…: Heb. the portion of a day in his day}
+      every day, that I June prove them, whether they will walk in my law, or no. {a certain…: Heb. the portion of a day in his day}
       5  And it shall come to pass, that on the sixth day they shall prepare that which they bring in; and it shall be twice as much
       as they gather daily. 6  And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the LORD 
       hath brought you out from the land of Egypt: 7  And in the morning, then ye shall see the glory of the LORD; for that he heareth
@@ -66,7 +66,7 @@ const Verse = [
       
       {
      id:2,
-     date:"3rd May",
+     date:"3rd June",
      scriptLoc:"Hosea 2: 1 - 15(KJV)",
      Script:`Say ye unto your brethren, Ammi; and to your sisters, Ruhamah. {Ammi: that is, My people} {Ruhamah: that is,
       Having obtained mercy} 2  Plead with your mother, plead: for she is not my wife, neither am I her husband: let her 
@@ -94,7 +94,7 @@ const Verse = [
      },
      {
      id:3,
-     date:"4th May",
+     date:"4th June",
      scriptLoc:"Hosea 2: 16 - 23(KJV)",
      Script:`And it shall be at that day, saith the LORD, that thou shalt call me Ishi; and shalt call me no more Baali. 
      {Ishi: that is, My husband} {Baali: that is, My lord} 17  For I will take away the names of Baalim out of her mouth, and
@@ -111,8 +111,8 @@ const Verse = [
      },
      {
      id:4,
-     date:"5th May",
-     scriptLoc:"Mayk 12: 26 - 34(KJV)",
+     date:"5th June",
+     scriptLoc:"Junek 12: 26 - 34(KJV)",
      Script:`26  And as touching the dead, that they rise: have ye not read in the book of Moses, how in the bush God spake 
      unto him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob? 27  He is not the God of the dead, 
      but the God of the living: ye therefore do greatly err. 28  And one of the scribes came, and having heard them reasoning 
@@ -130,7 +130,7 @@ const Verse = [
      },
      {
      id:5,
-     date:"6th May",
+     date:"6th June",
      scriptLoc:"John 11: 47 - 54(KJV)",
      Script:`Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles. 
      48  If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation. 
@@ -145,7 +145,7 @@ const Verse = [
      },
      {
      id:6,
-     date:"7th May",
+     date:"7th June",
      scriptLoc:"Prov. 1: 1 - 9(KJV)",
      Script:`The proverbs of Solomon the son of David, king of Israel; 2  To know wisdom and instruction; to perceive the words of 
      understanding; 3  To receive the instruction of wisdom, justice, and judgment, and equity; {equity: Heb. equities} 4  To give subtilty 
@@ -159,21 +159,21 @@ const Verse = [
      },
      {
      id:7,
-     date:"8th May",
+     date:"8th June",
      scriptLoc:"Exodus 14: 1 - 14(KJV)",
      Script:`And the LORD spake unto Moses, saying, 2  Speak unto the children of Israel, that they turn and encamp before Pihahiroth, 
      between Migdol and the sea, over against Baalzephon: before it shall ye encamp by the sea. 3  For Pharaoh will say of the children of 
      Israel, They are entangled in the land, the wilderness hath shut them in. 4  And I will harden Pharaoh’s heart, that he shall follow 
-     after them; and I will be honoured upon Pharaoh, and upon all his host; that the Egyptians may know that I am the LORD. And they did so. 
+     after them; and I will be honoured upon Pharaoh, and upon all his host; that the Egyptians June know that I am the LORD. And they did so. 
      5  And it was told the king of Egypt that the people fled: and the heart of Pharaoh and of his servants was turned against the people, 
      and they said, Why have we done this, that we have let Israel go from serving us? 6  And he made ready his chariot, and took his people 
      with him: 7  And he took six hundred chosen chariots, and all the chariots of Egypt, and captains over every one of them. 8  And the LORD 
      hardened the heart of Pharaoh king of Egypt, and he pursued after the children of Israel: and the children of Israel went out with an high 
      hand. 9  But the Egyptians pursued after them, all the horses and chariots of Pharaoh, and his horsemen, and his army, and overtook them 
      encamping by the sea, beside Pihahiroth, before Baalzephon. 10  And when Pharaoh drew nigh, the children of Israel lifted up their eyes, 
-     and, behold, the Egyptians Mayched after them; and they were sore afraid: and the children of Israel cried out unto the LORD. 11  And they 
+     and, behold, the Egyptians Juneched after them; and they were sore afraid: and the children of Israel cried out unto the LORD. 11  And they 
      said unto Moses, Because there were no graves in Egypt, hast thou taken us away to die in the wilderness? wherefore hast thou dealt thus 
-     with us, to carry us forth out of Egypt? 12  Is not this the word that we did tell thee in Egypt, saying, Let us alone, that we may serve 
+     with us, to carry us forth out of Egypt? 12  Is not this the word that we did tell thee in Egypt, saying, Let us alone, that we June serve 
      the Egyptians? For it had been better for us to serve the Egyptians, than that we should die in the wilderness. 13  And Moses said unto 
      the people, Fear ye not, stand still, and see the salvation of the LORD, which he will shew to you to day: for the Egyptians whom ye have 
      seen to day, ye shall see them again no more for ever. {for the…: or, for whereas ye have seen the Egyptians to day} 14  The LORD shall 
@@ -183,7 +183,7 @@ const Verse = [
      },
      {
      id:8,
-     date:"9th May",
+     date:"9th June",
      scriptLoc:"Luke 4: 15 - 30(KJV)",
      Script:`And he taught in their synagogues, being glorified of all. 16  And he came to Nazareth,
        where he had been brought up: and, as his custom was, he went into the synagogue on the sabbath day,
@@ -209,7 +209,7 @@ const Verse = [
      },
      {
        id:9,
-       date:"10th May",
+       date:"10th June",
        scriptLoc:"Romans 9: 30 - 33(KJV)",
        Script:`What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, 
        even the righteousness which is of faith. 31  But Israel, which followed after the law of righteousness, hath not attained to the 
@@ -222,7 +222,7 @@ const Verse = [
      },
      {
      id:10,
-     date:"11th May",
+     date:"11th June",
      scriptLoc:"1 Samuel 2: 1 - 11(KJV)",
      Script:`And Hannah prayed, and said, My heart rejoiceth in the LORD, mine horn is exalted in the LORD: my mouth
       is enlarged over mine enemies; because I rejoice in thy salvation. 2  There is none holy as the LORD: for there is
@@ -244,7 +244,7 @@ const Verse = [
      },
      {
        id:11,
-       date:"12th May",
+       date:"12th June",
        scriptLoc:"Daniel 6: 1 - 11(KJV)",
        Script:`It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom; 2  
        And over these three presidents; of whom Daniel was first: that the princes might give accounts unto them, and the king should 
@@ -269,7 +269,7 @@ const Verse = [
      },
      {
       id:13,
-      date:"13th May",
+      date:"13th June",
       scriptLoc:"Daniel 6: 12 - 20(KJV)",
       Script:`Then they came near, and spake before the king concerning the king’s decree; Hast thou not signed a decree, 
       that every man that shall ask a petition of any God or man within thirty days, save of thee, O king, shall be cast into the den 
@@ -278,7 +278,7 @@ const Verse = [
       O king, nor the decree that thou hast signed, but maketh his petition three times a day. 14  Then the king, when he heard these words, 
       was sore displeased with himself, and set his heart on Daniel to deliver him: and he laboured till the going down of the sun to deliver 
       him. 15  Then these men assembled unto the king, and said unto the king, Know, O king, that the law of the Medes and Persians is, That 
-      no decree nor statute which the king establisheth may be changed. 16  Then the king commanded, and they brought Daniel, and cast him into 
+      no decree nor statute which the king establisheth June be changed. 16  Then the king commanded, and they brought Daniel, and cast him into 
       the den of lions. Now the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee. 17  And a stone 
       was brought, and laid upon the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that the 
       purpose might not be changed concerning Daniel. 18  Then the king went to his palace, and passed the night fasting: neither were 
@@ -291,7 +291,7 @@ const Verse = [
      },
      {
      id:12,
-     date:"14th May",
+     date:"14th June",
      scriptLoc:"Romans 9: 14 - 29(KJV)",
      Script:`What shall we say then? Is there unrighteousness with God? God forbid. 15  For he saith to Moses, I will have mercy on whom 
      I will have mercy, and I will have compassion on whom I will have compassion. 16  So then it is not of him that willeth, nor of him that 
@@ -314,7 +314,7 @@ const Verse = [
      },
      {
      id:14,
-     date:"15th May",
+     date:"15th June",
      scriptLoc:"Lev. 10: 1 - 7(KJV)",
      Script:`And Nadab and Abihu, the sons of Aaron, took either of them his censer, and put fire therein, and put incense thereon, 
      and offered strange fire before the LORD, which he commanded them not. 2  And there went out fire from the LORD, and devoured them, 
@@ -322,7 +322,7 @@ const Verse = [
      that come nigh me, and before all the people I will be glorified. And Aaron held his peace. 4  And Moses called Mishael and Elzaphan, 
      the sons of Uzziel the uncle of Aaron, and said unto them, Come near, carry your brethren from before the sanctuary out of the camp. 
      5  So they went near, and carried them in their coats out of the camp; as Moses had said. 6  And Moses said unto Aaron, and unto Eleazar 
-     and unto IthaMay, his sons, Uncover not your heads, neither rend your clothes; lest ye die, and lest wrath come upon all the people: but 
+     and unto IthaJune, his sons, Uncover not your heads, neither rend your clothes; lest ye die, and lest wrath come upon all the people: but 
      let your brethren, the whole house of Israel, bewail the burning which the LORD hath kindled. 7  And ye shall not go out from the door of 
      the tabernacle of the congregation, lest ye die: for the anointing oil of the LORD is upon you. And they did according to the word of Moses. `,
      SayPrayers:`Lord, through the help of the holy spirit in me, guide my steps as I face the challenges of the day in Jesus name, Amen!`, 
@@ -330,7 +330,7 @@ const Verse = [
      },
      {
        id:15,
-       date:"16th May",
+       date:"16th June",
        scriptLoc:"Acts 3: 1 - 11(KJV)",
        Script:`Now Peter and John went up together into the temple at the hour of prayer, being the ninth hour.
         2  And a certain man lame from his mother’s womb was carried, whom they laid daily at the gate of the temple
@@ -349,7 +349,7 @@ const Verse = [
      },
      {
        id:16,
-       date:"17th May",
+       date:"17th June",
        scriptLoc:"Matt 12: 15 - 21(KJV)",
        Script:`But when Jesus knew it, he withdrew himself from thence: and great multitudes followed him, and he healed them all; 
        16  And charged them that they should not make him known: 17  That it might be fulfilled which was spoken by Esaias the prophet, 
@@ -363,7 +363,7 @@ const Verse = [
        },
      {
      id:17,
-     date:"18th May",
+     date:"18th June",
      scriptLoc:"Luke 12: 1 - 12(KJV)",
      Script:`In the mean time, when there were gathered together an innumerable multitude of people,
       insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware
@@ -387,7 +387,7 @@ const Verse = [
      },
      {
      id:18,
-     date:"19th May",
+     date:"19th June",
      scriptLoc:"Romans 3: 21 - 31(KJV)",
      Script:`But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets; 22  
      Even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference: 
@@ -404,7 +404,7 @@ const Verse = [
      },
      {
        id:19,
-       date:"20th May",
+       date:"20th June",
        scriptLoc:"Ephesians 5: 1 - 14(KJV)",
        Script:`Be ye therefore followers of God, as dear children; 2  And walk in love, as Christ also hath loved us, 
        and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour. 
@@ -424,7 +424,7 @@ const Verse = [
      },
      {
        id:20,
-       date:"21st May",
+       date:"21st June",
        scriptLoc:"Psalm 1: 1 - 6(KJV)",
        Script:`Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the 
        seat of the scornful. {ungodly: or, wicked} 2  But his delight is in the law of the LORD; and in his law doth he meditate day and night. 
@@ -438,7 +438,7 @@ const Verse = [
      },
      {
      id:21,
-     date:"22nd May",
+     date:"22nd June",
      scriptLoc:"1 Sam. 16: 1 - 13(KJV)",
      Script:`And the LORD said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel? 
      fill thine horn with oil, and go, I will send thee to Jesse the Bethlehemite: for I have provided me a king among his sons. 2  And 
@@ -463,7 +463,7 @@ const Verse = [
      },
      {
        id:22,
-       date:"23th May",
+       date:"23th June",
        scriptLoc:"Malachi 1: 1 - 5(KJV)",
        Script:`The burden of the word of the LORD to Israel by Malachi. {by…: Heb. by the hand of} 
        2  I have loved you, saith the LORD. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob’s 
@@ -477,7 +477,7 @@ const Verse = [
      },
      {
      id:23,
-     date:"24th May",
+     date:"24th June",
      scriptLoc:"1 John 3: 9 - 24(KJV)",
      Script:`And hereby we know that we are of the truth, and shall assure our hearts before him. {assure: Gr. persuade} 
      20  For if our heart condemn us, God is greater than our heart, and knoweth all things. 21  Beloved, if our heart condemn 
@@ -490,7 +490,7 @@ const Verse = [
      },
      {
      id:24,
-     date:"25th May",
+     date:"25th June",
      scriptLoc:"Malachi 1: 6 - 14(KJV)",
      Script:`A son honoureth his father, and a servant his master: if then I be a father, where is mine honour? and if
       I be a master, where is my fear? saith the LORD of hosts unto you, O priests, that despise my name. And ye say, Wherein
@@ -513,7 +513,7 @@ const Verse = [
      },
      {
        id:25,
-       date:"26th May",
+       date:"26th June",
        scriptLoc:"Matt. 4: 1 - 11(KJV)",
        Script:`Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil. 2  And when he had fasted forty days and forty nights, 
        he was afterward an hungred. 3  And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread. 4  But 
@@ -529,7 +529,7 @@ const Verse = [
      },
      {
        id:26,
-       date:"27th May",
+       date:"27th June",
        scriptLoc:"Acts 13: 13 - 26(KJV)",
        Script:`Now when Paul and his company loosed from Paphos, they came to Perga in Pamphylia: and John departing from them returned 
         to Jerusalem. 14  But when they departed from Perga, they came to Antioch in Pisidia, and went into the synagogue on the sabbath day,
@@ -553,7 +553,7 @@ const Verse = [
      },
      {
        id:27,
-       date:"28th May",
+       date:"28th June",
        scriptLoc:"Matt. 4: 12 - 22(KJV)",
        Script:`Now when Jesus had heard that John was cast into prison, he departed into Galilee; {cast…: or, delivered up} 13  And 
        leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim: 14  
@@ -570,23 +570,23 @@ const Verse = [
      },
      {
       id:28,
-      date:"29th May",
+      date:"29th June",
       scriptLoc:"Jonah 1: 1 - 14(KJV)",
       Script:`Now the word of the LORD came unto Jonah the son of Amittai, saying, {Jonah: Gr. Jonas} 2  Arise, go to Nineveh, that great 
       city, and cry against it; for their wickedness is come up before me. 3  But Jonah rose up to flee unto Tarshish from the presence of the 
       LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them 
       unto Tarshish from the presence of the LORD.  4  But the LORD sent out a great wind into the sea, and there was a mighty tempest in the 
-      sea, so that the ship was like to be broken. {sent out: Heb. cast forth} {was like…: Heb. thought to be broken} 5  Then the Mayiners were 
+      sea, so that the ship was like to be broken. {sent out: Heb. cast forth} {was like…: Heb. thought to be broken} 5  Then the Juneiners were 
       afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah 
       was gone down into the sides of the ship; and he lay, and was fast asleep. 6  So the shipmaster came to him, and said unto him, What 
       meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not. 7  And they said every one 
-      to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell 
+      to his fellow, Come, and let us cast lots, that we June know for whose cause this evil is upon us. So they cast lots, and the lot fell 
       upon Jonah. 8  Then said they unto him, Tell us, we pray thee, for whose cause this evil is upon us; What is thine occupation? and whence 
       comest thou? what is thy country? and of what people art thou? 9  And he said unto them, I am an Hebrew; and I fear the LORD, the God of 
       heaven, which hath made the sea and the dry land. {the LORD: or, JEHOVAH} 10  Then were the men exceedingly afraid, and said unto him, 
       Why hast thou done this? For the men knew that he fled from the presence of the LORD, because he had told them. {exceedingly…: Heb. with 
-      great fear} 11  Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was 
-      tempestuous. {may…: Heb. may be silent from us} {wrought…: or, grew more and more tempestuous: Heb. went} 12  And he said unto them, 
+      great fear} 11  Then said they unto him, What shall we do unto thee, that the sea June be calm unto us? for the sea wrought, and was 
+      tempestuous. {June…: Heb. June be silent from us} {wrought…: or, grew more and more tempestuous: Heb. went} 12  And he said unto them, 
       Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon 
       you. 13  Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against 
       them. {rowed: Heb. digged} {wrought…: or, grew more and more tempestuous: Heb. went} 14  Wherefore they cried unto the LORD, and said, 
@@ -597,11 +597,11 @@ const Verse = [
     },
     {
       id:29,
-      date:"30th May",
+      date:"30th June",
       scriptLoc:"1 John 3: 11 - 18(KJV)",
       Script:`For this is the message that ye heard from the beginning, that we should love one another. {message: or, commandment} 
       12  Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and 
-      his brother’s righteous. 13  Mayvel not, my brethren, if the world hate you. 14  We know that we have passed from death unto life, 
+      his brother’s righteous. 13  Junevel not, my brethren, if the world hate you. 14  We know that we have passed from death unto life, 
       because we love the brethren. He that loveth not his brother abideth in death. 15  Whosoever hateth his brother is a murderer: and 
       ye know that no murderer hath eternal life abiding in him. 16  Hereby perceive we the love of God, because he laid down his life for 
       us: and we ought to lay down our lives for the brethren. 17  But whoso hath this world’s good, and seeth his brother have need, and 
@@ -612,7 +612,7 @@ const Verse = [
     },
     {
       id:30,
-      date:"31st May",
+      date:"31st June",
       scriptLoc:"1 Cor. 1: 17 - 31(KJV)",
       Script:`For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ 
       should be made of none effect. {words: or, speech} 18  For the preaching of the cross is to them that perish foolishness; but
